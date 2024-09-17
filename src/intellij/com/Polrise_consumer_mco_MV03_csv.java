@@ -51,6 +51,8 @@ public class Polrise_consumer_mco_MV03_csv {
                     }
                 }
                 writer.append('\n');
+                
+                //comment
 
                 // Write CSV data
                 while (rs.next()) {
